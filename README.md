@@ -62,6 +62,7 @@ python -m http.server
 ## Install
 ```bash
 git clone git@github.com:XapiMa/make-member-list.git
+mkdir data/ data/csv/ data/images/
 ```
 
 ## Author
